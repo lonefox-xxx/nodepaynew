@@ -131,4 +131,4 @@ async def call_api(url, data, proxy, token, max_retries=3):
                     return valid_resp(resp_json)
             except aiohttp.ClientResponseError as e:
                 if e.status == 403:
-                    logger.warning(f"API 调用
+                    logger.warning(f"API 调用")
