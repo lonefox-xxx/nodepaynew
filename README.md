@@ -10,7 +10,7 @@ Nodepay.ai 机器人使用多个代理自动 ping
 # 运行代码的步骤
 ```bash
 git clone https://github.com/Gzgod/nodepaynew.git
-cd nodepay
+cd nodepaynew
 ```
 **更新代理**
 ```bash
